@@ -1,4 +1,3 @@
-* put me in /storage/emulated/0/Android
 
 # How to register
 
